@@ -1,0 +1,22 @@
+{
+	"dbhost":"localhost",
+	"port":7432,
+	"dnname":"erp",
+	"uid":"hrmapp",
+	"password":"cnp4test",
+	"timeout": 10,
+	"server":"ds.thedailystar.net:465",
+	"smtpUserId":"donotreply@thedailystar.net",
+	"smtpPassword":"TDS@12345#",
+	"testEmailID":"tonmoy.nandy@gmail.com",
+	"jwtKey":"12345#TDS@sit",
+	"bypassAuth":["/api/auth/login","/"],
+	"adminEmailId":"admin@thedailystar.net",
+	"adminPassword":"passw0rd",
+	"adminEmpCode":"00000",
+	"rptServiceLink":"http://150.107.50.59:7985/convert",
+	"rptFilePath":"./",
+	"rptAuthKey":"cnp4test"
+
+}
+

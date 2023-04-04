@@ -1,0 +1,21 @@
+{
+	"dbhost":"150.107.50.59",
+	"port":7432,
+	"dnname":"erp",
+	"uid":"hrmapp",
+	"password":"cnp4test",
+	"timeout": 10,
+	"server":"ds.thedailystar.net:465",
+	"smtpUserId":"donotreply@thedailystar.net",
+	"smtpPassword":"TDS@12345#",
+	"testEmailID":"connectsudipdutta@gmail.com",
+	"jwtKey":"",
+	"bypassAuth":["/api/auth/login","/","/api/employee/document","/api/reports"],
+	"adminEmailId":"connectsudipdutta@gmail.com",
+	"adminPassword":"passw0rd",
+	"adminEmpCode":"00000",
+	"rptServiceLink":"http://192.168.1.151:9985/convert",
+	"rptFilePath":"./",
+	"rptAuthKey":"cnp4test"
+
+}

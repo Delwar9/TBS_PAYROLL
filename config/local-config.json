@@ -1,0 +1,38 @@
+{
+    "dbhost": "192.168.150.33",
+    "port": 8018,
+    "dnname": "bsdb",
+    "uid": "bsdbadmin",
+    "password": "admin12345",
+    "timeout": 10,
+    "server": "tbs.tbsnews.net:465",
+    "smtpUserId": "donotreply@tbsnews.net",
+    "smtpPassword": "tbs@12345",
+    "testEmailID": "connectsudipdutta@gmail.com",
+    "jwtKey": "",
+    "bypassAuth": [
+        "/api/auth/login",
+        "/",
+        "/api/employee/document",
+        "/api/reports"
+    ],
+    "adminEmailId": "connectsudipdutta@gmail.com",
+    "adminPassword": "passw0rd",
+    "adminEmpCode": "00000",
+    "rptServiceLink": "http://192.168.1.151:9985/convert",
+    "rptFilePath": "./",
+    "rptAuthKey": "cnp4test",
+
+    "advertisement_schema_name": "advertisement",
+    "accounts_schema_name": "accounts",
+    "payroll_schema_name": "payroll",
+    "common_schema_name": "common",
+    "pfaccounts_schema_name": "pfaccounts",
+    "db_host": "192.168.150.33",
+    "db_port": 8018,
+    "db_name": "bsdb",
+    "db_username": "bsdbadmin",
+    "db_password": "admin12345",
+    "access_secret": "09e138efcd2ad2974227128b4209cdbc70a46a7c6b73fabd486c8cd35b51412716520e5719338f6e4e75d998069d293dc1510c025df4c9a219c03af6bce45c8faa8fc0af30f3ef7879929de9e56cb10a461579645e87fbf9c23ac3cc9f4a17839ba9b57e",
+    "api_port": "3006"
+}
